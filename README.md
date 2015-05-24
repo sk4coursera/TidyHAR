@@ -25,4 +25,10 @@ Sample data for Subject "1":
         1             LAYING       0.2215982    -0.040513953      -0.1132036    -0.92805647
 ```
 
+The tidy data can be loaded in R as below:
+
+```
+tidy <- read.table("tidy-data.txt", header=TRUE)
+```
+
 See [CodeBook](CodeBook.md) for the list of the variables in the generated tidy dataset.
