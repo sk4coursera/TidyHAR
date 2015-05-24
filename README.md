@@ -13,7 +13,7 @@ Assuming the original dataset is extracted to "data" directory, the script "run_
 # Data
 The tidy data contains the mean values of the combined test data and trainig data computed over subject and activity. The dataset contains data for 30 subjects doing 6 activities and with 79 observations for each activity.
 
-Sample data below shows the first three rows and six columns for Subject "1"
+Sample data for Subject "1":
 
 ```
   Subject           Activity tBodyAcc.mean.X tBodyAcc.mean.Y tBodyAcc.mean.Z tBodyAcc.std.X
